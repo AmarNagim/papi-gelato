@@ -4,7 +4,7 @@
 import time
 
 def icecreamShop():
-    print('Welkom bij Papi Gelato je mag alle smaken kiezen.')
+    print('Welkom bij Papi Gelato')
     print('')
     time.sleep(1)
 
